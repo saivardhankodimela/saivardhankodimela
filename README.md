@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning DSA, Html, Css and JavaScript.
+- 🌱 I’m currently learning Html, Css and JavaScript.
 - 💬 Ask me about Core Java and Python.
 - 🤔 I’m looking for help with Java Full Stack Development.
 
