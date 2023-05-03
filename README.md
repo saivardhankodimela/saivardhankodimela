@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - 🌱 I’m currently learning Html, Css and JavaScript.
 - 💬 Ask me about Core Java and Python.
-- 🤔 I’m looking for help with Java Full Stack Development.
+- 🤔 I’m looking for work with Java Stack Development.
 
 ### <img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="30"/> Connect with me on   
 <a href="https://twitter.com/vardhan_98" target="_blank">
