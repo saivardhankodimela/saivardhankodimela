@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning Html, Css and JavaScript.
-- 💬 Ask me about Core Java and Python.
+- 🌱 I’m currently learning linux, github, Dockerfile, Jenkins
+  
 
 ### <img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="30"/> Connect with me on   
 <a href="https://twitter.com/vardhan_98" target="_blank">
